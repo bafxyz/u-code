@@ -2,7 +2,7 @@
 
 > Let's plan our app a bit here
 
-## Wireframes
+### Wireframes
 
 To make this exiting app let's create some wireframes. I know a bunch of tools for this, but for this example i would go with [figma.com](https://figma.com) You might talk with someone about the topic you want to solve, based on these thoughts wireframe can be adjusted
 
@@ -10,7 +10,7 @@ To make this exiting app let's create some wireframes. I know a bunch of tools f
 
 Roles: usually done by Product Manager
 
-## Generating issues
+### Generating issues
 
 For managing the issues there are different tools, which can help you track the process and time management. I would go here with simplest one [trello.com](https://trello.com) The process is quite simple, you just need to create the board and put all issues on it. Usually board has at least 3 columns: _todo_ \| _in progress_ \| _done_
 
@@ -18,7 +18,7 @@ For managing the issues there are different tools, which can help you track the 
 
 > Roles: can be done by Product Manager, Scrum Master and even Developer or Designer
 
-## Design
+### Design
 
 When the wireframe and list of tasks are defined somehow, it's time to make design for our shiny app. Design can be done in the same figma.com file. And even prototyping can be added there. Prototyping is a good part of any design since it helps to everyone feel the app the way it should behave. Good tone of design to define ui-kit of all elements and their states
 

@@ -1,4 +1,4 @@
-- [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+- [![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack)](https://u-codeworkspace.slack.com)
 
 - Guide
 
@@ -6,4 +6,6 @@
   - [First step](first-step.md)
   - [Planning](planning.md)
   - [Developing](developing.md)
-  - [Changelog](/CHANGELOG.md)
+  - [Learning materials](learning-materials.md)
+
+- [Support](support.md)

@@ -7,5 +7,7 @@
   - [Planning](planning.md)
   - [Developing](developing.md)
   - [Learning materials](learning-materials.md)
+  - [Communities](communities.md)
+  - [Tutorial](tutorial.md)
 
 - [Support](support.md)

@@ -6,4 +6,4 @@
   - [First step](first-step.md)
   - [Planning](planning.md)
   - [Developing](developing.md)
-  - [Changelog](../CHANGELOG.md)
+  - [Changelog](/CHANGELOG.md)

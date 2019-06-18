@@ -4,7 +4,7 @@
 
 ### Wireframes
 
-To make this exiting app let's create some wireframes. I know a bunch of tools for this, but for this example i would go with [figma.com](https://figma.com) You might talk with someone about the topic you want to solve, based on these thoughts wireframe can be adjusted
+To make this exiting app let's create some wireframes. I know a bunch of tools for this, but for this example i would go with [figma.com](https://figma.com) You might talk with someone about the topic you want to solve, based on these thoughts wireframe can be adjusted. Also you can always get some inspiration at [dribbble.com](https://dribbble.com/) or [behance.net](https://behance.net)
 
 > Fell free to use anything you want to draw your future app. You can even use pencil and paper for this.
 

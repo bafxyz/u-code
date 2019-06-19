@@ -42,6 +42,26 @@
 - [cs50](https://www.youtube.com/user/cs50tv)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos)
 
+### Postcasts
+
+- [https://syntax.fm](https://syntax.fm)
+
+### Learning games
+
+- [https://www.playcodemonkey.com](https://www.playcodemonkey.com/)
+- [https://www.codingame.com](https://www.codingame.com/start)
+- [https://flukeout.github.io](https://flukeout.github.io)
+- [http://flexboxfroggy.com](http://flexboxfroggy.com)
+- [http://www.flexboxdefense.com](http://www.flexboxdefense.com/)
+- [https://codecombat.com](https://codecombat.com)
+- [https://alexnisnevich.github.io/untrusted/](https://alexnisnevich.github.io/untrusted/)
+
+### JS Questions
+
+- [Front-end questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [https://jsmeanything.now.sh](https://jsmeanything.now.sh/)
+- [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
 ### Courses
 
 - [https://frontendmasters.com](https://frontendmasters.com)
